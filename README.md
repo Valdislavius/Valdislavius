@@ -26,4 +26,8 @@ Latest blog
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-090909?style=for-the-badge&logo=WORDPRESS)
 
 
-Follow me
+## Follow me
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://instagram.com/vladkhasanovv?igshid=ZWQyN2ExYTkwZQ==)
+[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=INSTAGRAM)](https://t.me/V1adisLaf)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/vkhasanov0)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/vladislav-khasanov-24122325b/)
