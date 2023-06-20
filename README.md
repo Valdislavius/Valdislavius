@@ -4,6 +4,8 @@
 
 Latest blog 
 
-Languages / Tools
+## Languages / Tools
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
+
 
 Follow me
