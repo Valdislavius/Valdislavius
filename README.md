@@ -1,8 +1,9 @@
 [![Header](https://github.com/Valdislavius/Valdislavius/blob/main/assets/header.png)]()
 
-## I'm a junior frontend developer
+## Hi! My name's Vlad and I'm a junior frontend developer.
+Thank you for visiting my profile
 
-Latest blog 
+
 
 ## LANGUAGES
 ## FRONTEND
@@ -19,6 +20,7 @@ Latest blog
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=EXPRESS)
 ![AXIOS](https://img.shields.io/badge/-AXIOS-090909?style=for-the-badge&logo=AXIOS)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-090909?style=for-the-badge&logo=Sequelize)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ## TOOLS
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=DOCKER)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-090909?style=for-the-badge&logo=POSTGRESQL)
@@ -31,3 +33,8 @@ Latest blog
 [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=INSTAGRAM)](https://t.me/V1adisLaf)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/vkhasanov0)
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LINKEDIN)](https://www.linkedin.com/in/vladislav-khasanov-24122325b/)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Valdislavius&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valdislavius&layout=donut-vertical)
+
