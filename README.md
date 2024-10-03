@@ -6,6 +6,13 @@ Thank you for visiting my profile
 
 
 ## LANGUAGES
+## GAMEDEV
+![UNITY](https://img.shields.io/badge/-UNITY-090909?style=for-the-badge&logo=UNITY)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23)
+
+
+## I also have knowledge of the following languages ​​and technologies
+
 ## FRONTEND
 ![JS](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=REACT)
@@ -21,10 +28,6 @@ Thank you for visiting my profile
 ![AXIOS](https://img.shields.io/badge/-AXIOS-090909?style=for-the-badge&logo=AXIOS)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-090909?style=for-the-badge&logo=Sequelize)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
-## GAMEDEV
-![UNITY](https://img.shields.io/badge/-UNITY-090909?style=for-the-badge&logo=UNITY)
-![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23)
-
 ## TOOLS
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=DOCKER)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-090909?style=for-the-badge&logo=POSTGRESQL)
