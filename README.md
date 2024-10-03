@@ -23,7 +23,7 @@ Thank you for visiting my profile
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ## GAMEDEV
 ![UNITY](https://img.shields.io/badge/-UNITY-090909?style=for-the-badge&logo=UNITY)
-![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=Csharp)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C%23)
 
 ## TOOLS
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=DOCKER)
