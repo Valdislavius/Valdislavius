@@ -1,6 +1,6 @@
 [![Header](https://github.com/Valdislavius/Valdislavius/blob/main/assets/header.png)]()
 
-## Hi! My name's Vlad and I'm a junior frontend developer.
+## Hi! My name's Vlad and I'm a junior unity developer.
 Thank you for visiting my profile
 
 
@@ -23,6 +23,8 @@ Thank you for visiting my profile
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ## GAMEDEV
 ![UNITY](https://img.shields.io/badge/-UNITY-090909?style=for-the-badge&logo=UNITY)
+![C#](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=Csharp)
+
 ## TOOLS
 ![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=DOCKER)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-090909?style=for-the-badge&logo=POSTGRESQL)
